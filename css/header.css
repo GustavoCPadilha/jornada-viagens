@@ -49,6 +49,7 @@ nav {
 @media screen and (min-width: 768px) {
   .navigation-menu {
     margin-top: 0;
+    width: 467px;
   }
 
   .navigation-menu label {
